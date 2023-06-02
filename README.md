@@ -1,5 +1,9 @@
 ﻿# BookingAndManagerHotelWebAPI
  Bài demo cho môn kiến trúc và thiết kế phần mềm, đề tài quản lý khách sạn.
+ # Bài báo cáo gồm:
+ - web api + client
+ - báo cáo bản mềm: https://docs.google.com/document/d/1sdVz0N3oU6t2AWFgL1TDJhTqsnuuOe0G/edit?usp=sharing&ouid=105238185890006122819&rtpof=true&sd=true
+ - sql: https://drive.google.com/file/d/1bRqNFeMc8c6SHrSD3Gw_ta3R0Yce-FRx/view?usp=sharing
 # Hướng Dẫn Sử Dụng
 - Clone đường dẫn github vào visual studio microsoft
 - Sau khi hoàn thành, chọn web client ở solution explorer, chọn wwwroot -> img

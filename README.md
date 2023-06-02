@@ -8,5 +8,5 @@
 - Chọn cửa sổ solution, chuột phải vào solution 'QuanLyKhachSanAPI', chọn properties
 - Tại cửa sổ này, chọn multiple starup projects, action bật start cả 2 projects ở phía dưới
 - Mở sql server lấy tên máy chủ, sau đó chọn model ở api, chọn file context để thay đổi servername
-Tác Giả: Trường Đại học Công Nghệ Giao Thông Vận Tải, lớp 71DCTT21, nhóm 7 \n
-Email: 7STeam.work@gmail.com
+# Tác Giả: Trường Đại học Công Nghệ Giao Thông Vận Tải, lớp 71DCTT21, nhóm 7
+# Email: 7STeam.work@gmail.com

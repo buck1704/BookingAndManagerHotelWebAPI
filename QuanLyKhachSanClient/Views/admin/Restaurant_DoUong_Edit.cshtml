@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "Restaurant_DoUong_Edit";
+}
+@using QuanLyKhachSanClient.Models;
+@model DouongViewModel;
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sửa Thông Tin Đồ Uống</title>
+    <style>
+        * {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form asp-controller="admin" asp-action="Restaurant_DoUong_Update" method="POST" enctype="multipart/form-data">
+        <table>
+            <tr>
+                <td colspan="2">
+                    <h1>CẬP NHẬT THÔNG TIN ĐỒ UỐNG</h1>
+                </td>
+            </tr>
+            <tr>
+                <td>Tên Đồ Uống</td>
+                <td>
+                    <input type="text" name="TenDoUong" id="TenDoUong" value="@Model.TenDoUong">
+                </td>
+            </tr>
+            <tr>
+                <td>Giá</td>
+                <td>
+                    <input type="text" name="Gia" id="Gia" value="@Model.Gia">
+                </td>
+            </tr>
+            <tr>
+                <td>Ảnh</td>
+                <td>
+                    <input type="file" name="imgFile" id="img" value="@Model.Img">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit">Cập nhật</button>
+                    <a asp-controller="admin" asp-action="Restaurant_DoUong_Index">Quay lại</a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+  
+</body>
+
+</html>

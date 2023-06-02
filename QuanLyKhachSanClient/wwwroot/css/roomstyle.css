@@ -1,0 +1,275 @@
+.header{
+    position:relative;
+    margin-top:20px;
+}
+
+/* banner */
+.header img {
+    width: 100%;
+    height: 350px;
+    filter: brightness(60%);
+}
+
+.header_mota {
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.mota1 {
+    color: white;
+    position: relative;
+}
+
+.mota2 {
+    color: rgb(184,145,70);
+}
+
+.mota3 {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    position: relative;
+}
+
+.mota1::after {
+    content: "";
+    border-left: solid white;
+    width: 2px;
+    height: 50px;
+    position: absolute;
+    top: -200%;
+    left: 120%;
+}
+
+.mota2::after {
+    content: "";
+    border-left: solid white;
+    height: 50px;
+    position: absolute;
+    bottom: -40%;
+    left: 53%;
+}
+/* end banner */
+
+.checkroom_wapper img {
+    width: 1450px;
+    height: 300px;
+    filter: brightness(60%);
+}
+
+.wapper_chu1 {
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+}
+
+.wapper_chu11 {
+    color: white;
+    position: relative;
+}
+
+.wapper_chu12 {
+    color: rgb(184,145,70);
+}
+
+.wapper_chu2 {
+    color: white;
+    font-size: 40px;
+    position: relative;
+}
+
+.wapper_chu11::after {
+    content: "";
+    border-left: solid white;
+    width: 2px;
+    height: 50px;
+    position: absolute;
+    top: -300%;
+    left: 160%;
+}
+
+.wapper_chu2::after {
+    content: "";
+    border-left: solid white;
+    height: 50px;
+    position: absolute;
+    bottom: -130%;
+    left: 53%;
+}
+
+.main {
+    display: flex;
+    width: 100%;
+    padding-top: 30px;
+    justify-content: space-around;
+    background-color: rgb(24,26,27 );
+}
+
+.main_menu {
+    width: 300px;
+    height: 400px;
+    color: white;
+    border: 1px solid rgb(205, 194, 194);
+}
+
+ .main_menu p {
+        font-size: 23px;
+        padding: 20px;
+        position: relative;
+    }
+ .main_menu p:first-child::after {
+            content: "";
+            display: block;
+            width: 60px;
+            height: 3px;
+            background-color: rgb(184,145,70);
+            position: absolute;
+            top: 55px;
+        }
+
+.form {
+    width: 90%;
+    margin: auto;
+}
+
+.form_item {
+    display: flex;
+    height: 45px;
+    margin-bottom: 18px;
+}
+
+#category, #checknguoi, #checkphong {
+    flex: 1;
+    border: 1px solid rgb(205, 194, 194);
+    background-color: rgb(24,26,27 );
+    color: white;
+    padding: 5px;
+}
+
+input {
+    flex: 1;
+    background-color: rgb(24,26,27 );
+    border: 1px solid rgb(205, 194, 194);
+    color: white;
+    padding-left: 10px;
+}
+
+::placeholder {
+    color: white;
+}
+
+button {
+    color: white;
+    font-size: 20px;
+    background-color: rgb(184,145,70);
+    height: 43px;
+    width: 40%;
+    padding: 10px 25px 10px 10px;
+    border: none;
+    position: relative;
+}
+
+    button img {
+        width: 30px;
+        position: absolute;
+        top: 20%;
+        left: 65%;
+    }
+
+.mainroom {
+    width: 65%;
+}
+
+.mainroom_1 {
+    border: 1px solid rgb(48,50,51 );
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+
+.mainroom11 {
+    flex: 3;
+    margin-left: 40px;
+    position: relative;
+}
+
+.mainroom13 {
+    flex: 1;
+    text-align: center;
+}
+
+.icon {
+    margin-top: 20px;
+}
+
+.icon_giuong {
+    margin-right: 100px;
+}
+
+.mainroom111 {
+    font-size: 20px;
+    margin: 25px 0 10px 0;
+}
+
+.mainroom11::after {
+    content: "";
+    border-right: solid rgb(48,50,51 );
+    height: 150px;
+    width: 2px;
+    position: absolute;
+    right: 20px;
+    top: 25px;
+}
+
+.mainroom112 {
+    font-size: 13px;
+}
+
+.mainroom13 {
+    display: block;
+    margin: auto;
+}
+
+.mainroom131 {
+    color: rgb(184,145,70);
+}
+
+.mainroom132 {
+    padding: 10px 0 10px 0;
+    position: relative;
+}
+
+.mainroom133 {
+    position: relative;
+}
+
+.mainroom133 a {
+        text-decoration: none;
+        color: white
+    }
+
+ .mainroom133::before {
+        content: url("../img/icon_next.png");
+        position: absolute;
+        bottom: -4px;
+        left: 5px;
+    }
+ .mainroom133 a {
+        color: white;
+    }
+
+ .mainroom133 a:hover {
+            color: rgb(184,145,70);
+            font-size: 17px;
+            font-weight: bold;
+        }
+
+.mainroom > div {
+    margin-bottom: 20px;
+}

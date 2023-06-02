@@ -1,0 +1,76 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./common/bootstrap-5.2.2-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+    <style>
+
+        header{
+            background-color: #937438;
+            color: white;
+        }
+        header h1{
+            padding: 20px 10px;
+        }
+        input{
+            width: 400px;
+            margin-bottom: 5px;
+            border: 2px solid #937438;
+            position: relative;
+            height: 36px;
+
+        }
+        label{
+            position: absolute;
+            left: 37%;
+            color: #937438;
+        }
+        button{
+            width: 400px;
+            height: 36px;
+            background-color: #937438;
+            color: white;
+            margin-top: 20px;
+            border: none;
+        }
+        #login{
+            font-family: Montserrat-Bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container-fluid">
+            <h1>Admin</h1>
+        </div>
+    </header>
+    <section id="login">
+        <div class="container text-center">
+            <h1 style="color: #937438;">Burning Hotel</h1>
+            <span class="fa-stack fa-3x mb-3">
+                <i class="fa fa-circle-thin fa-stack-2x" style="color: #937438;"></i>
+                <i class="fa fa-user fa-stack-1x" style="color: #937438;"></i>
+              </span>
+              <form asp-action="CheckLogin" method="POST">
+                <label for="">Tài Khoản</label> <br>
+                <input type="text" name="email" id="email"> <br>
+                <label for="">Mật Khẩu</label> <br>
+                <input type="password" name="password" id="password"> <br>
+                <button type="submit" name="btn">Đăng Nhập</button>
+                
+              </form>
+        </div>
+    </section>
+</body>
+</html>

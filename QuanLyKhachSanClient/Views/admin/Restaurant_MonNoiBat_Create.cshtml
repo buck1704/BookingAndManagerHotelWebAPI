@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Restaurant_MonNoiBat_Create";
+}<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thêm Mới Món Nổi Bật</title>
+    <style>
+        *{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <form asp-action="Restaurant_MonNoiBat_Add" method="POST" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td colspan="2"><h1>Thêm mới Món nổi bật</h1></td>
+        </tr>
+            <td>Tên Món</td>
+            <td>
+                <input type="text" name="TenMon" id="TenMon">
+            </td>
+        </tr>
+        <tr>
+            <td>Giá</td>
+            <td>
+                    <input type="text" name="Gia" id="Gia">
+            </td>
+        </tr>
+        <tr>
+            <td>Ảnh</td>
+            <td>
+                    <input type="file" name="imgFile" id="img">
+            </td>
+        </tr>
+        <tr>
+            <td><input type="Submit" name="btnSubmit" id="btnSubmit" value="Đồng ý"></td>
+            <td><button><a href=" @Url.Action("Restaurant_MonNoiBat_Index", "admin")">Quay lại</a></button></td>
+        </tr>
+    </table>
+    </form>
+
+</body>
+</html>

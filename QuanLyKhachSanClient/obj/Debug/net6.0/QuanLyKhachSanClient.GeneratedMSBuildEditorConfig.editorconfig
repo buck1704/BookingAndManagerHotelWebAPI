@@ -1,0 +1,293 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QuanLyKhachSanClient
+build_property.RootNamespace = QuanLyKhachSanClient
+build_property.ProjectDir = C:\Users\84336\source\repos\QuanLyKhachSanAPI\QuanLyKhachSanAPI\QuanLyKhachSanClient\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\84336\source\repos\QuanLyKhachSanAPI\QuanLyKhachSanAPI\QuanLyKhachSanClient
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cRGFuZ05oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/QuanLyDatPhong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUXVhbkx5RGF0UGhvbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_Buffet_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9CdWZmZXRfQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_Buffet_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9CdWZmZXRfRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_Buffet_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9CdWZmZXRfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_Buffet_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9CdWZmZXRfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_DoUong_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Eb1VvbmdfQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_DoUong_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Eb1VvbmdfRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_DoUong_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Eb1VvbmdfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_DoUong_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Eb1VvbmdfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonChinh_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25DaGluaF9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonChinh_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25DaGluaF9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonChinh_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25DaGluaF9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonChinh_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25DaGluaF9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonKhaiVi_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25LaGFpVmlfQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonKhaiVi_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25LaGFpVmlfRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonKhaiVi_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25LaGFpVmlfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonKhaiVi_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25LaGFpVmlfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonNoiBat_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25Ob2lCYXRfQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonNoiBat_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25Ob2lCYXRfRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonNoiBat_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25Ob2lCYXRfRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonNoiBat_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25Ob2lCYXRfSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonTrangMieng_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25UcmFuZ01pZW5nX0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonTrangMieng_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25UcmFuZ01pZW5nX0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonTrangMieng_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25UcmFuZ01pZW5nX0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Restaurant_MonTrangMieng_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUmVzdGF1cmFudF9Nb25UcmFuZ01pZW5nX0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Room_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUm9vbV9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Room_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUm9vbV9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Room_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUm9vbV9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/Room_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cUm9vbV9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/User_Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXNlcl9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/User_Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXNlcl9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/User_Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXNlcl9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/admin/User_Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWRtaW5cVXNlcl9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/allroom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGFsbHJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/bar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXERhbmdLeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/deluxroom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGRlbHV4cm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/executiveroom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGV4ZWN1dGl2ZXJvb20uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/fitness.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGZpdG5lc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/history.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGhpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/infor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXGluZm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/payb2ddn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHBheWIyZGRuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/payddn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHBheWRkbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/quenmatkhau.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHF1ZW5tYXRraGF1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/restaurant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHJlc3RhdXJhbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/roomcheck.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHJvb21jaGVjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/roomdeail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHJvb21kZWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/roomstyle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHJvb21zdHlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/service.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/suiteroom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHN1aXRlcm9vbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/thanhcheck.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHRoYW5oY2hlY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/thongtinphong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHRob25ndGlucGhvbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/TrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXFRyYW5nQ2h1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/hotelmanager/washingcloses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaG90ZWxtYW5hZ2VyXHdhc2hpbmdjbG9zZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/84336/source/repos/QuanLyKhachSanAPI/QuanLyKhachSanAPI/QuanLyKhachSanClient/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bitqu99ha0

@@ -1,0 +1,75 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "User_Edit";
+}
+@model Quanlytaikhoan
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sửa Thông Tin</title>
+    <style>
+        * {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+<form asp-controller="admin" asp-action="User_Put" method="POST">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <table>
+        <!-- Các trường nhập liệu -->
+        <tr>
+            <td>Họ Tên</td>
+            <td>
+                <input type="text" name="hoten" id="txtHoTen" value="@Model.HoTen">
+            </td>
+        </tr>
+        <tr>
+            <td>Số Điện Thoại</td>
+            <td>
+                <input type="text" name="sdt" id="txtSDT" value="@Model.Sdt">
+            </td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>
+                <input type="text" name="email" id="txtEmail" value="@Model.Email">
+            </td>
+        </tr>
+        <tr>
+            <td>CMND</td>
+            <td>
+                <input type="text" name="cmnd" id="txtCMND" value="@Model.Cmnd">
+            </td>
+        </tr>
+        <tr>
+            <td>PassWord</td>
+            <td>
+                <input type="password" name="password" id="txtPassWord" value="@Model.PassWord">
+            </td>
+        </tr>
+        <!-- Nút submit -->
+        <tr>
+            <td></td>
+            <td>
+                <button type="submit">Cập nhật</button>
+                <a asp-controller="admin" asp-action="User_Index">Quay lại</a>
+            </td>
+        </tr>
+    </table>
+</form>
+
+
+
+
+
+</body>
+
+</html>

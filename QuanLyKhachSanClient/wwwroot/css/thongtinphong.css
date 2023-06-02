@@ -1,0 +1,64 @@
+.main{
+    width: 100%;
+}
+.body{
+    width: 100%;
+    background-color: rgb(24,26,27 );
+    display: flex;
+    justify-content: space-around;  
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body>div{
+    margin: 50px 0;
+    margin-top: 100px;
+}
+.inforanh{
+    filter:brightness(60%);
+    position: relative;
+}
+.inforchu{
+    position: absolute;
+    top:70%;
+    margin-left: 15px;
+}
+
+.inforrice{
+    display: flex;
+    font-size: 15px;
+    line-height: 10px;
+    margin-bottom: 10px;
+}
+.rice1{ 
+    color:  rgb(187, 133, 33);
+    font-size: 15px;
+}  
+.rice2{
+    color: white;
+    font-size: 15px;
+}
+.rice3{
+    color: white;
+    font-size: 20px;
+    position: relative;
+} 
+.rice3::after{
+    content: "";
+    border-bottom: solid rgb(185, 140, 73);
+    display: block;
+    position: absolute;
+    width: 300px;
+    bottom: -10px;
+}
+h1{
+    color: white;
+}
+.inforroom1{
+    color: white;
+    font-size: 20px;
+}
+td{
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 5px 5px;
+}

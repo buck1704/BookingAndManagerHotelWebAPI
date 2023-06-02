@@ -1,0 +1,178 @@
+
+#banner{
+ 
+    color: white;
+}
+#banner .img{
+    position: relative;
+}
+#banner .img img{
+    filter: brightness(30%);
+}
+#banner .box {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#banner .box .trangtri{
+    border: 2px solid white;
+    background-color: white;
+    height: 60px;
+    width: 2px;
+    margin: 0 auto;
+}
+
+#step .a{
+    width: 20%;
+    margin: -95px auto 0px;
+}
+#step .a li a{
+    background-color: transparent;
+    color: white;
+}
+#step .a li span{
+    background-color: #937438;
+    border-color: #937438;
+    color: #fff;
+}
+#step .b{
+    width: 26%;
+    margin: 0 auto;
+}
+#step .b li a{
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+}
+#step .b li span{
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+}
+#step .b li{
+    width: 120px;
+    border: none;
+    text-align: center;    
+}
+#slogan {
+    background-color: #181A1B;
+    color: white;
+    /* padding: 30px; */
+    font-family:Montserrat-Regular;
+}
+
+#slogan .img {
+    align-items: center;
+}
+
+#form{
+    background-color: #181A1B;
+    color: white;
+}
+
+#form .container input{
+    margin-left:3px ;
+    margin-bottom: 30px;
+    padding: 5px;
+    width: 500px;
+    color:white;
+    border: 1px solid #937438;
+    background-color: #181A1B;
+}
+
+#form .container{
+    padding-left: 80px;
+}
+
+#form .container .tt{
+    position: relative;
+}
+
+#form .container button{
+    margin: 1px;
+    padding: 3px;
+    position: absolute;
+    background-color: #181A1B;
+    color: #937438;
+    border: none;
+    left: 430px;
+}
+
+#service {
+    background-color: #181A1B;
+    color: white;
+    /* padding-top: 30px; */
+}
+
+#service .container img{
+    /* align-items: center; */
+    height: 60px;
+}
+#service .container .img{
+    align-items: center;
+}
+#service .dichvu{
+    margin-left: 70px;
+    font-family:Montserrat-SemiBold;
+}
+
+#huyphong {
+    background-color: #181A1B;
+    color: white;
+    /* padding-top: 30px; */
+}
+
+#huyphong .container img{
+    /* align-items: center; */
+    height: 60px;
+}
+#huyphong .container .img{
+    align-items: center;
+}
+#huyphong .phi{
+    margin: 20px 170px;
+}
+
+#udai{
+    background-color: #181A1B;
+    color: white;
+    /* padding-top: 30px; */
+}
+
+#udai .container img{
+    /* align-items: center; */
+    height: 60px;
+    /* margin-top: 10px; */
+}
+#udai .container .img{
+    align-items: center;
+}
+#udai .ud{
+    margin: 20px;
+    margin-left: 80px;
+}
+#udai .ud .img{
+    align-items: center;
+}
+#udai .ud .content{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#udai .ud button{
+    margin-top: 20px;
+    
+}
+
+#tieptuc{
+    background-color: #181A1B;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 110px;
+}
+#category{
+    margin-left:60px;
+    font-size:18px;
+}

@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "roomcheck";
+}
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <script>
+        alert('@Html.Raw( ViewBag.Error)');
+    </script>
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Room Check</title>
+    <link rel="stylesheet" href="../css/roomcheck.css?v=@DateTime.Now.Ticks" type='text/css'>
+    <link rel="stylesheet" href="../css/style.css?v=@DateTime.Now.Ticks">
+    <script src="https://kit.fontawesome.com/a0ff9460a2.js" crossorigin="anonymous"></script>
+    <!-- CSS only -->
+    <link rel="stylesheet" href="../common/bootstrap-5.2.2-dist/css/bootstrap.min.css">
+</head>
+<body>
+     <!-- header -->
+    @Html.Partial("header.cshtml")
+    <!-- banner -->
+
+    <section id="banner">
+        <div class="container-fluid p-0 text-center">                   
+            <div class="img h-100">
+                <img src="../img/pay/banner.jpg" alt="" class="w-100">
+                <div class="box">
+                    <div class="trangtri"></div>
+                    <p class="m-0" style="font-size: 14px;font-family: Montserrat-Regular">Home - <span
+                            style="color: #EBB853;">Service</span></p>
+                    <h3 style="font-size:36px;font-family: Montserrat-Bold;">Room Check</h3>
+                    <div class="trangtri"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- end banner -->
+    <section id="check">
+       <div class="checkroom_infor">
+           <form method="POST" action="thongtinphong">
+
+            <div class="infor_item"><input type="text" name="ma" id="ma" placeholder="Nhập mã phòng"></div>
+            <div class="infor_item"><input type="text" name="sdt" id="sdt" placeholder="Nhập số điện thoại"></div>
+            <div class="infor_item"><button id="btn" type="submit" name="btn">Kiểm Tra</button></div>
+        </form>
+
+    </div>  
+    </section>
+    
+
+     <!-- footer -->
+    @Html.Partial("footer.cshtml")
+
+    <script src="../common/bootstrap-5.2.2-dist/js/popper.min.js"></script>
+    <script src="../common/bootstrap-5.2.2-dist/js/bootstrap.min.js"></script>
+</body> 
+</html>

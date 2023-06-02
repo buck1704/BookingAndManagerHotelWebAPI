@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "ChiTietPhong_Delete";
+}
+@model Chitietphong
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xóa</title>
+</head>
+<body>
+    <h2>Xác nhận xóa phòng @Model.Id</h2>
+    <div>
+        <h4>Bạn có chắc chắn muốn xóa người dùng này?</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Mã Loại Phòng</dt>
+            <dd class="col-sm-10">@Model.IdPhong</dd>
+
+            <dt class="col-sm-2">Tên Phòng</dt>
+            <dd class="col-sm-10">@Model.TenPhong</dd>
+
+            <dt class="col-sm-2">Sức chứa tối đa</dt>
+            <dd class="col-sm-10">@Model.NguoiMax người</dd>
+
+            <dt class="col-sm-2">Loại Giường</dt>
+            <dd class="col-sm-10">@Model.LoaiGiuong</dd>
+
+            <dt class="col-sm-2">Giá Phòng</dt>
+            <dd class="col-sm-10">@Model.GiaPhong</dd>
+
+            <dt class="col-sm-2">Số Lượng Buồng</dt>
+            <dd class="col-sm-10">@Model.TinhTrang</dd>
+        </dl>
+        <form method="post" asp-action="Room_Delete_Conf">
+            <input type="hidden" asp-for="@Model.Id" value="@Model.Id" />
+            <input type="submit" value="Xóa" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa phòng này?')" />
+            <a href="@Url.Action("Room_Index", "admin")" class="btn btn-secondary">Hủy</a>
+        </form>
+    </div>
+</body>
+</html>

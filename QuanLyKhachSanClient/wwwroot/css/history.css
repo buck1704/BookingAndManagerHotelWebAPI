@@ -1,0 +1,173 @@
+
+.main{
+    display: flex;
+    width: 100%;
+    padding-top: 30px;
+    justify-content: space-around;
+    background-color: rgb(24,26,27 );
+    margin-top: 30px;
+}
+.main_menu{
+    width: 300px;
+    height: 400px;
+    color: white;
+    border: 1px solid rgb(205, 194, 194);
+}
+.main_menu p{
+    font-size: 23px;
+    padding: 20px;
+    position: relative;
+}
+.main_menu p:first-child::after{
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: rgb(184,145,70);
+    position: absolute;
+    top:55px;
+}
+.form{
+    width: 90%;
+    margin: auto;
+}
+.form_item{
+    display: flex;
+    height: 45px;
+    margin-bottom: 18px;
+}
+#category,#room{
+    flex:1;
+    height: 45px;
+    border: 1px solid rgb(205, 194, 194);
+    background-color:  rgb(24,26,27 );
+    color: white;
+    padding: 5px;
+}
+input{
+    flex:1;
+    background-color: rgb(24,26,27 );
+    border: 1px solid rgb(205, 194, 194);
+    color: white;
+    padding-left: 10px;
+}
+::placeholder{
+    color:white;
+}
+.check{
+    color: white;
+    background-color: rgb(184,145,70) ;
+    font-size: 20px;
+    height: 45px;
+    padding: 10px 25px 10px 25px;
+    border: none;
+}
+.mainroom{
+    width: 68%;
+}
+.mainroom_1{
+    border: 1px solid rgb(48,50,51 ) ;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+.mainroom11{
+    flex:3;
+    margin-left: 40px;
+    position: relative;
+}
+.mainroom13{
+    flex: 1;
+    text-align: center;
+}
+.icon{
+    /* margin-top: 20px; */
+}
+.icon_giuong{
+    margin-right:100px;
+}
+.mainroom111 {
+    font-size: 20px;
+    margin: 5px 0 8px 0;
+}
+.mainroom11::after{
+    content: "";
+    border-right:  solid rgb(48,50,51 );
+    height: 150px;
+    width: 2px;
+    position: absolute;
+    right: 20px;
+    top:25px;
+}
+.mainroom112 {
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 3px
+}
+.mainroom13{
+    display: block;
+    margin: auto;
+}
+.mainroom131{
+    color:  rgb(184,145,70);
+}
+.mainroom132{
+    padding: 10px 0 10px 0;
+    position: relative;
+}
+.mainroom133{
+    position: relative;
+}
+.mainroom132::before{
+    content: url("../ICON/icon_star2.png");
+    position: absolute;
+    top:8px;
+    left: 35px;
+}
+.mainroom133::before{
+    content: url("../ICON/icon_next.png");
+    position: absolute;
+    bottom: -4px;
+    left: -5px;
+}
+.mainroom_2{
+    border: 1px solid rgb(48,50,51 ) ;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+.mainroom_3{
+    border: 1px solid rgb(48,50,51 ) ;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+.mainroom_4{
+    border: 1px solid rgb(48,50,51 ) ;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+.mainroom_5{
+    border: 1px solid rgb(48,50,51 ) ;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    color: white;
+}
+.mainroom>div{
+    margin-bottom: 20px;
+}
+.ngaydat{
+    color: white;
+    font-size: 20px;
+}
+.dichvu{
+    font-size:12px;
+    margin-left:12px;
+    margin-bottom:0px;
+}

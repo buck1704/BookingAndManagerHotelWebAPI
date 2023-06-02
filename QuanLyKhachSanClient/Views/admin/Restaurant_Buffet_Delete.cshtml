@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Restaurant_Buffet_Delete";
+}
+@model SetbuffetViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xóa</title>
+</head>
+<body>
+<h2>Xác nhận xóa set @Model.Id</h2>
+    <div>
+        <h4>Bạn có chắc chắn muốn xóa món này?</h4>
+        <dl class="row">
+            <dt class="col-sm-2">Tên set</dt>
+            <dd class="col-sm-10">@Model.TenSet</dd>
+
+            <dt class="col-sm-2">Giá</dt>
+            <dd class="col-sm-10">@Model.Gia</dd>
+
+            <dt class="col-sm-2">Đường dẫn ảnh</dt>
+            <dd class="col-sm-10">@Model.Img người</dd>
+
+        </dl>
+
+        <form method="post" asp-action="Buffet_Delete_Conf">
+            <input type="hidden" asp-for="@Model.Id" value="@Model.Id" />
+            <input type="submit" value="Xóa" class="btn btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa món này?')" />
+            <a href="@Url.Action("Restaurant_Buffet_Index", "admin")" class="btn btn-secondary">Hủy</a>
+        </form>
+</body>
+</html>

@@ -1,0 +1,205 @@
+﻿
+@{
+    ViewData["Title"] = "Restaurant_Index";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quản lý Menu</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.2/css/all.css">
+    <link rel="stylesheet" href="../common/bootstrap-5.2.2-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+            color: black;
+            margin-top: 10px;
+        }
+
+        p {
+            margin-top: 10px;
+        }
+        i{
+            margin-right: 10px;
+        }
+        .admin {
+            background-color: #937438;
+            color: #fff;
+            padding: 12px 14px;
+            margin-bottom: 8px;
+            border-radius: 4px;
+        }
+
+        .nav {
+            font-size: 16px;
+        }
+
+        .sub-nav {
+            margin-top: 16px;
+            display: none;
+        }
+
+        .nav:hover .sub-nav {
+            display: block;
+        }
+
+        .sub-nav li a {
+            display: block;
+            padding: 4px 4px;
+        }
+
+        .sub-nav li:hover a {
+            background-color: #ccc;
+        }
+
+        .icon {
+            font-size: 18px;
+        }
+
+        .header {
+            position: fixed;
+            right: 0;
+            top: 0;
+            left: 15%;
+            background-color: #937438;
+            color: white;
+            font-weight: 500;
+        }
+
+        .content {
+            margin-top: 130px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .content .block-content {
+            display: flex;
+            width: 250px;
+            height: 180px;
+            border-radius: 12px;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <!-- Sidebar -->
+        <div class="sidebar w3-sidebar w3-light-grey w3-bar-block" style="width:15%; top: 0">
+            <div class="w3-bar-item" style="height: 150px;">
+                <ul style="padding: 0;">
+                    <li class="nav">
+                        <a href="#" class="admin">
+                            <i class="fa-solid fa-user"></i>
+
+                        </a>
+                        <ul class="sub-nav">
+                            <li><a href="@Url.Action("DangNhap", "admin")">Logout</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <a href="@Url.Action("Index", "admin")">
+                <h3 class="w3-bar-item">
+                    <i class="fa-solid fa-grid-horizontal"></i>
+                    Dashboard
+                </h3>
+            </a>
+
+            <a href="@Url.Action("User_Index", "admin")" class="w3-bar-item w3-button">
+                <i class="icon fa-solid fa fa-users"></i>
+                User manager
+            </a>
+            <a href="@Url.Action("Room_Index", "admin")" class="w3-bar-item w3-button">
+                <i class="icon fa-solid fa fa-hotel"></i>
+                Room manager
+            </a>
+            <a href="@Url.Action("Restaurant_Index", "admin")" class="w3-bar-item w3-button">
+                <i class="icon fa-solid fa fa-navicon"></i>
+                Menu manager
+            </a>
+        </div>
+
+        <!-- Page Content -->
+        <div style="margin-left: 15%;">
+            <div class="header w3-container " style="font-size:36px">
+                <p style="margin:20px 0px; font-size:36px">Menu manager</p>
+            </div>
+
+            <div class="content container">
+                <div class="row">
+                    <div class="col-4 mb-5 d-flex">
+                        <div class="block-content" style="background-color: #C5BBDE; margin:0 auto;">
+                            <a href="@Url.Action("Restaurant_MonNoiBat_Index", "admin")">
+                                <img src="../img/iconmonnoibat.png" alt="">
+                                <p>Món Nổi Bật</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-4 mb-5 d-flex">
+                        <div class="block-content" style="background-color: #FBB9C5;margin:0 auto">
+                            <a href="@Url.Action("Restaurant_MonKhaiVi_Index", "admin")">
+                                <img src="../img/iconkhaivi.png" alt="">
+                                <p>Món Khai Vị</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-4 mb-5 d-flex">
+                        <div class="block-content" style="background-color: #FDD0B1; margin:0 auto">
+                            <a href="@Url.Action("Restaurant_MonChinh_Index", "admin")">
+                                <img src="../img/iconmonchinh.png" alt="">
+                                <p>Món Chính</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-4 mt-5 d-flex">
+                        <div class="block-content" style="background-color: #F9EFC7; margin:0 auto">
+                            <a href="@Url.Action("Restaurant_MonTrangMieng_Index", "admin")">
+                                <img src="../img/icontrangmieng.png" alt="">
+                                <p>Món Tráng Miệng</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-4 mt-5 d-flex">
+                        <div class="block-content" style="background-color: #C3EDBF; margin:0 auto">
+                            <a href="@Url.Action("Restaurant_DoUong_Index", "admin")">
+                                <img src="../img/icondouong.png" alt="">
+                                <p>Đồ Uống</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-4 mt-5 d-flex">
+                        <div class="block-content" style="background-color: #B8DFE6; margin:0 auto">
+                            <a href="@Url.Action("Restaurant_Buffet_Index", "admin")">
+                                <img src="../img/iconbuffet.png" alt="">
+                                <p>Set buffet</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../common/bootstrap-5.2.2-dist/js/popper.min.js"></script>
+    <script src="../common/bootstrap-5.2.2-dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,65 @@
+
+/* banner */
+#banner{
+    margin-top: 30px;
+    color: white;
+}
+#banner .img{
+    position: relative;
+    height: 450px;
+}
+#banner .img img{
+    filter: brightness(70%);
+    height: 305px;
+}
+#banner .box {
+    position: absolute;
+    left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+#banner .box .trangtri{
+    border: 2px solid white;
+    background-color: white;
+    height: 60px;
+    width: 2px;
+    margin: 0 auto;
+}
+/* end banner */
+ #check{
+    background-color: rgb(24,26,27);
+ }
+.checkroom_infor{
+    width: 50%;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(24,26,27);
+}
+
+.infor_item{
+    height: 50px;
+    display: flex;
+    margin-bottom: 30px;
+}
+#ma,#sdt{
+    flex: 1;
+    background-color: rgb(24,26,27);
+    border: 1px solid rgb(184,145,70) ;
+    color: white;
+    padding-left: 20px;
+}
+#btn{
+    flex:1;
+    font-size: 25px;
+    background-color:  rgb(184,145,70);
+    border: solid;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+
+
+
+

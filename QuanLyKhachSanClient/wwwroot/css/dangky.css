@@ -1,0 +1,211 @@
+
+/* menu */
+#menu{
+    background-color: black;
+    height: 88px;
+}
+#menu .logo{
+    height: 50px;
+    width: 50px;
+}
+#menu .navbar-brand{
+    color: white;
+    font-family: Montserrat-SemiBold;
+    font-size: 20px;
+}
+#menu .sub-nav li a{
+    font-family: Montserrat-SemiBold;
+    font-size: 16px;
+    color: white;
+}
+#menu .sub-nav li input{
+    font-family: Montserrat-Medium;
+    font-size: 16px;
+    color: white;
+    background-color: #937438;
+    width: 110px;
+    padding: 6px;
+}
+.menu-nav {
+    margin: 0 auto;
+}
+#menu .dropdown button{
+    background-color: black;
+}
+#menu .dropdown ul{
+    left: 50%;
+    transform: translate(-50%);
+    background-color: black;
+    padding: 10px;
+}
+#menu .dropdown ul li{
+    font-family: Montserrat-Bold;
+}
+#menu .dropdown ul li a{
+    color: #EBB853;
+    font-size: 12px;
+    padding: 0px;
+    margin-top: 20px;
+}
+#menu .dropdown .icon{
+    height: 30px;
+    width: 30px;
+}
+/* end menu */
+
+
+.body{
+    
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color:  rgb(24,26,27);
+}
+.main{
+    width: 80%;
+    margin: auto;
+    background-color:  rgb(24,26,27);
+}
+.main_form{
+    background-color:  rgb(24,26,27);
+    padding: 25px;
+}
+h1{
+    text-align: center;
+}
+.main_form p{
+    font-size: 20px; 
+}
+.mainform1{
+    width:450px ;
+}
+.mainform1>div{
+    margin-bottom: 20px;
+}
+input{
+    height: 45px;
+    width: 100%;
+    background-color:  rgb(24,26,27);
+    border:1px solid rgb(184,145,70);
+    box-sizing: border-box;
+    color: white;
+}
+.mainform1>div div:first-child{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.main22{
+  position: relative; 
+}
+.main22_link{
+    position: absolute;
+    top:10px;
+    right: 10px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(184,145,70);
+}
+
+.mainform2{
+    width:450px ;
+}
+.mainform2>div{
+    margin-bottom: 20px;
+}
+.mainform2>div div:first-child{
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.main6{
+    margin-top:59px;
+}
+#btn{
+    background-color:rgb(184,145,70) ;
+    color: white;
+    font-size: 20px;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* footer */
+#footer{
+    background-color: black;
+    color: #fff;
+    padding: 70px 48px 50px;
+}
+#footer .logo{
+    height: 30px;
+    width: 30px;
+}
+#footer .contact{
+    justify-content: space-between;
+}
+#footer .navbar-brand{
+    color: white;
+    font-family: Montserrat-SemiBold;
+    font-size: 18px;
+}
+#footer p{
+    margin-top: 30px;
+    width: 275px;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+    color: #939393;
+}
+#footer h5{
+    position: relative;
+    font-size: 18px;
+    font-family: Montserrat-Regular;
+    padding: 5px 0px;
+    margin-bottom: 16px;
+}
+#footer h5::before{
+    position: absolute;
+    content: '';
+    top: 100%;
+    left: 0;
+    width: 60px;
+    height: 1px;
+    border: 2px solid #fff;
+}
+#footer ul{
+    color: #fff;
+    padding: 0;
+}
+#footer li{
+    padding-bottom: 10px;
+    width: 275px;
+    display: flex;
+}
+#footer li .img{
+    display: flex;
+    align-items: center;
+}
+#footer li a{
+    color: #939393;
+    font-size: 14px;
+    font-family: Montserrat-Regular;
+}
+#footer .Send {
+    display: flex;
+}
+#footer .Send input{
+    border: 1px solid #937438;
+    background-color: black;
+    padding: 10px 70px 10px 10px;
+    color: #fff;
+}
+#footer .Send button{
+    padding: 9px;
+    background-color: #937438;
+    border: none;
+}
+/* end footer */
+
+
+
+
+

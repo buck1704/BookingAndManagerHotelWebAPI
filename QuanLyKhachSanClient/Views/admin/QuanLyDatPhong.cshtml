@@ -1,0 +1,100 @@
+﻿
+@{
+    ViewData["Title"] = "QuanLyDatPhong";
+}
+@model List<dynamic>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a0ff9460a2.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+    <style>
+        table, td, th {
+            border: 1px solid #ddd;
+            border-collapse: collapse;
+            margin-top: 45px;
+        }
+
+        th,td {
+            text-align: center;
+            padding:5px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #ddd;
+        }
+
+        li {
+            list-style-type: circle;
+        }
+
+       .timkiem{
+           text-align:center;
+       }
+       input{
+           height: 30px;
+           width:200px;
+           margin-right:15px;
+       }
+       
+    </style>
+</head>
+<body>
+    <h1 style="font-size: 30px;color: rgb(74, 37, 37); text-align: center;">Quản Lý Đặt Phòng</h1>
+    <form asp-action="TimKiemDatPhong" method="post">
+        <div class="timkiem">
+           <input type="text" name="timkiem" id="timkiem" placeholder="Nhập SDT hoặc Họ Tên">
+           <button type="submit"> Tìm kiếm </button> 
+        </div>
+
+        <div>
+                    <table>
+                        <tr>
+                            <th>Mã khách hàng</th>
+                            <th>Họ tên</th>
+                            <th>SDT</th>
+                            <th>Email</th>
+                            <th>Tên Phòng</th>
+                            <th>Dịch vụ </th>
+                            <th>Ngày Đến</th>
+                            <th>Ngày Đi</th>
+                            <th>Ngày Thanh Toán</th>
+                            <th>Phương thức thanh toán</th>
+                            <th>Tổng số tiền </th>
+                        </tr>
+                        @foreach (var phong in Model)
+                        {
+                            <tr>
+                                <td>@phong.Id</td>
+                                <td>@phong.HoTen</td>
+                                <td>@phong.Sdt</td>
+                                <td>@phong.Email</td>
+                                <td>@phong.TenPhong</td>
+                                <td style="text-align: left">
+                                    @foreach (var tenDichVu in phong.TenDichVu)
+                                    {
+                                        <li class="dichvu">@tenDichVu</li>
+                                    }
+                                </td>
+                                <td>@phong.NgayDen</td>
+                                <td>@phong.NgayDi</td>
+                                <td>@phong.NgayTt</td>
+                                <td>@phong.PhuongThucThanhToan</td>
+                                <td>@phong.ThanhTien</td>
+                            </tr>
+                        }
+                    </table>
+        </div>
+              
+    </form>
+   
+</body>
+</html>
+

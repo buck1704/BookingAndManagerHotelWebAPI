@@ -1,0 +1,31 @@
+#doimatkhau{
+    text-align: center;
+    background-color: #181A1B;
+    color: white;
+    padding-top: 120px;
+}
+#doimatkhau .left{
+    padding-left: 400px;
+    font-family: Montserrat-SemiBold;
+}
+#doimatkhau .left label{
+    margin-bottom: 50px;
+}
+#doimatkhau .right{
+    padding-right: 500px;
+}
+
+#doimatkhau .right input{
+    width: 400px;
+    background-color: #181A1B;
+    border: 1px solid #937438;
+    color: white;
+    margin-bottom: 50px;
+}
+#doimatkhau .button button{
+    width: 400px;
+    height: 45px;
+    color: white;
+    border-radius: 10px;
+    font-family: Montserrat-SemiBold; 
+}

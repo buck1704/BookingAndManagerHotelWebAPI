@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewData["Title"] = "ChiTietPhong_Edit";
+}
+@model Chitietphong
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sửa Thông Tin</title>
+    <style>
+        * {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <form asp-controller="admin" asp-action="Room_Put" method="POST" enctype="multipart/form-data">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <table>
+            <tr>
+                <td colspan="2">
+                    <h1>CẬP NHẬT THÔNG TIN PHÒNG</h1>
+                </td>
+            </tr>
+            <tr>
+                <td>ID Phòng</td>
+                <td>
+                    <input type="text" name="IdPhong" id="IdPhong" value="@Model.IdPhong">
+                </td>
+            </tr>
+            <tr>
+                <td>Tên Phòng</td>
+                <td>
+                    <input type="text" name="TenPhong" id="TenPhong" value="@Model.TenPhong">
+                </td>
+            </tr>
+            <tr>
+                <td>Số Lượng Người Tối Đa</td>
+                <td>
+                    <input type="number" name="NguoiMax" id="NguoiMax" value="@Model.NguoiMax">
+                </td>
+            </tr>
+            <tr>
+                <td>Loại Giường</td>
+                <td><input type="text" name="LoaiGiuong" id="LoaiGiuong" value="@Model.LoaiGiuong"></td>
+            </tr>
+            <tr>
+                <td>Giá Phòng </td>
+                <td>
+                    <input type="text" name="GiaPhong" id="GiaPhong" value="@Model.GiaPhong">
+                </td>
+            </tr>
+            <tr>
+                <td>Số Lượng Phòng </td>
+                <td>
+                    <input type="text" name="SoLuongPhong" id="SoLuongPhong" value="@Model.TinhTrang">
+                </td>
+            </tr>
+            <tr>
+                <td>Diện tích</td>
+                <td><input type="text" name="DienTich" id="DienTich" value="@Model.LoaiGiuong"></td>
+            </tr>
+            <tr>
+                <td>Tầm nhìn </td>
+                <td>
+                    <input type="text" name="TamNhin" id="TamNhin" value="@Model.GiaPhong">
+                </td>
+            </tr>
+            <tr>
+                <td>Mô tả</td>
+                <td>
+                    <input type="text" name="Mota" id="Mota" value="@Model.TinhTrang">
+                </td>
+            </tr>
+            <tr>
+                <td>Ảnh</td>
+                <td>
+                    <input type="file" name="imgFile" id="img" value="@Model.Img">
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit">Cập nhật</button>
+                    <a asp-controller="admin" asp-action="Room_Index">Quay lại</a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+
+</html>
+

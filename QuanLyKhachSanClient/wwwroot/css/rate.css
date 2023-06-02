@@ -1,0 +1,46 @@
+
+/* banner */
+#banner{
+    
+    color: white;
+}
+#banner .img{
+    position: relative;
+    height: 450px;
+}
+#banner .img img{
+    -webkit-filter: brightness(70%);
+    height: 305px;
+}
+#banner .box {
+    position: absolute;
+    left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+#banner .box .trangtri{
+    border: 2px solid white;
+    background-color: white;
+    height: 60px;
+    width: 2px;
+    margin: 0 auto;
+}
+
+/* end banner */
+
+/* content */
+#content{
+    background-color: #181A1B;
+    color: #fff;
+}
+#content button{
+    background-color: transparent;
+    color: #EBB853;
+    border: none;
+    position: absolute;
+    right: 41%;
+}
+#content .profile{
+    align-items: center;
+}
+/* end content */

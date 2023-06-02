@@ -1,0 +1,1141 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QuanLyKhachSanClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanLyKhachSanClient.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\bootstrap-5.2.2-dist\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\common\\bootstrap-5.2.2-dist\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\common\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\common\\slick\\config.rb"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\common\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\common\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\common\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\common\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\common\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\common\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\common\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\common\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\common\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\common\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\common\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\common\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\common\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\allroom.css",
+      "PackagePath": "staticwebassets\\css\\allroom.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\dangky.css",
+      "PackagePath": "staticwebassets\\css\\dangky.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\history.css",
+      "PackagePath": "staticwebassets\\css\\history.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\infor.css",
+      "PackagePath": "staticwebassets\\css\\infor.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\page.css",
+      "PackagePath": "staticwebassets\\css\\page.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\pay.css",
+      "PackagePath": "staticwebassets\\css\\pay.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\pay1.css",
+      "PackagePath": "staticwebassets\\css\\pay1.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\quenmatkhau.css",
+      "PackagePath": "staticwebassets\\css\\quenmatkhau.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\rate.css",
+      "PackagePath": "staticwebassets\\css\\rate.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\restaurant.css",
+      "PackagePath": "staticwebassets\\css\\restaurant.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\roomcheck.css",
+      "PackagePath": "staticwebassets\\css\\roomcheck.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\roomdetail.css",
+      "PackagePath": "staticwebassets\\css\\roomdetail.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\roomstyle.css",
+      "PackagePath": "staticwebassets\\css\\roomstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\service.css",
+      "PackagePath": "staticwebassets\\css\\service.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\thongtinphong.css",
+      "PackagePath": "staticwebassets\\css\\thongtinphong.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\css\\trangchu1.css",
+      "PackagePath": "staticwebassets\\css\\trangchu1.css"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Font Montserrat Viet Hoa\\Font Montserrat Viet Hoa\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\font\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\font\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Bia.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Bia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Coca cola.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Coca cola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Pepsi.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Pepsi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Rượu vang.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Rượu vang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Rượu voodka.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Rượu voodka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Soda.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Soda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Spite.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Spite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\DoUong\\Whisky.jpg",
+      "PackagePath": "staticwebassets\\img\\DoUong\\Whisky.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Bò né.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Bò né.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Gỏi ngũ sắc hải sản.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Gỏi ngũ sắc hải sản.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Set1.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Set1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Set2.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Set2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Set3.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Set3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Set4.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Set4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Set5.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Set5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\noibat1.png",
+      "PackagePath": "staticwebassets\\img\\Doan\\noibat1.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\noibat2.png",
+      "PackagePath": "staticwebassets\\img\\Doan\\noibat2.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\noibat3.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\noibat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Ảnh11.png",
+      "PackagePath": "staticwebassets\\img\\Doan\\Ảnh11.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Ảnh5.png",
+      "PackagePath": "staticwebassets\\img\\Doan\\Ảnh5.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Doan\\Ảnh8.jpg",
+      "PackagePath": "staticwebassets\\img\\Doan\\Ảnh8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Bò né.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Bò né.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Cá bớp nướng muối ớt xanh.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Cá bớp nướng muối ớt xanh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Cá lóc hấp bầu.png",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Cá lóc hấp bầu.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Cá tầm sốt nấm tiêu đen đút lò.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Cá tầm sốt nấm tiêu đen đút lò.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Gà bó xôi.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Gà bó xôi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Lẩu cá thác lác.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Lẩu cá thác lác.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Lẩu gà lá giang.png",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Lẩu gà lá giang.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Muchapgung.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Muchapgung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Mực hấp rim mắm tỏi.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Mực hấp rim mắm tỏi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Mực xào sa tế.png",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Mực xào sa tế.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Sườn bò hầm táo đỏ ăn kèm bánh mì baguette.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Sườn bò hầm táo đỏ ăn kèm bánh mì baguette.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Sườn sốt BBQ đút lò.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Sườn sốt BBQ đút lò.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Thăn heo đút lò sốt nho.png",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Thăn heo đút lò sốt nho.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonChinh\\Vịt nướng tiêu đen.jpg",
+      "PackagePath": "staticwebassets\\img\\MonChinh\\Vịt nướng tiêu đen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Bánh Korokke nhân thịt bò.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Bánh Korokke nhân thịt bò.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Bánh xếp nhân thịt heo chiên giòn.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Bánh xếp nhân thịt heo chiên giòn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Càng cua bách hoa.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Càng cua bách hoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Gỏi bò bóp thấu.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Gỏi bò bóp thấu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Gỏi bưởi tôm mực.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Gỏi bưởi tôm mực.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Gỏi ngó sen tôm thịt.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Gỏi ngó sen tôm thịt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Gỏi ngũ sắc hải sản.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Gỏi ngũ sắc hải sản.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Gỏi ngự tiến tôm thịt.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Gỏi ngự tiến tôm thịt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Sallat hải sản chua cay.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Sallat hải sản chua cay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Sallat rau củ.png",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Sallat rau củ.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Sú ghẹ nấm đông cô.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Sú ghẹ nấm đông cô.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Súp cua.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Súp cua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Súp gà nấm hương.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Súp gà nấm hương.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Thịt nguội bát bửu.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Thịt nguội bát bửu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonKhaiVi\\Tôm chiên xù.jpg",
+      "PackagePath": "staticwebassets\\img\\MonKhaiVi\\Tôm chiên xù.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Bánh Mochi.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Bánh Mochi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Bánh cupcake socola.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Bánh cupcake socola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Bánh su kem.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Bánh su kem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Bánh tuyết thiên sứ.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Bánh tuyết thiên sứ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Chè dưỡng nhan.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Chè dưỡng nhan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Chè hạt sen nấm tuyết.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Chè hạt sen nấm tuyết.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Chè khúc bạch.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Chè khúc bạch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Rau câu hoa đậu biếc.png",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Rau câu hoa đậu biếc.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Trái cây.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Trái cây.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\MonTrangMieng\\Yaourt.jpg",
+      "PackagePath": "staticwebassets\\img\\MonTrangMieng\\Yaourt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Set1.jpg",
+      "PackagePath": "staticwebassets\\img\\Set1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Set2.jpg",
+      "PackagePath": "staticwebassets\\img\\Set2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Set3.jpg",
+      "PackagePath": "staticwebassets\\img\\Set3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\Spite.jpg",
+      "PackagePath": "staticwebassets\\img\\Spite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Deluxe_room.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Deluxe_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Deluxe_room1.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Deluxe_room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Junior_suite.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Junior_suite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Single_room.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Single_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Standard_room.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Standard_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Standard_room1.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Standard_room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\Superior_suite.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\Superior_suite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\family_room.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\family_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\allroom\\family_room1.jpg",
+      "PackagePath": "staticwebassets\\img\\allroom\\family_room1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\dangnhap\\icon_facebook-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\dangnhap\\icon_facebook-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\dangnhap\\icon_insta.png",
+      "PackagePath": "staticwebassets\\img\\dangnhap\\icon_insta.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\dangnhap\\icon_twitter.png",
+      "PackagePath": "staticwebassets\\img\\dangnhap\\icon_twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_3p.png",
+      "PackagePath": "staticwebassets\\img\\icon_3p.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_AboutMe.png",
+      "PackagePath": "staticwebassets\\img\\icon_AboutMe.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_Address.png",
+      "PackagePath": "staticwebassets\\img\\icon_Address.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_DangXuat.png",
+      "PackagePath": "staticwebassets\\img\\icon_DangXuat.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_HoanTra.png",
+      "PackagePath": "staticwebassets\\img\\icon_HoanTra.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_HuyPhong.png",
+      "PackagePath": "staticwebassets\\img\\icon_HuyPhong.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_Mess.png",
+      "PackagePath": "staticwebassets\\img\\icon_Mess.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_NgayDat.png",
+      "PackagePath": "staticwebassets\\img\\icon_NgayDat.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_Phone.png",
+      "PackagePath": "staticwebassets\\img\\icon_Phone.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_Room.png",
+      "PackagePath": "staticwebassets\\img\\icon_Room.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_ThongTinCaNhan.png",
+      "PackagePath": "staticwebassets\\img\\icon_ThongTinCaNhan.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_TocDo.png",
+      "PackagePath": "staticwebassets\\img\\icon_TocDo.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_UuDai.png",
+      "PackagePath": "staticwebassets\\img\\icon_UuDai.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_dichvu.png",
+      "PackagePath": "staticwebassets\\img\\icon_dichvu.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_next.png",
+      "PackagePath": "staticwebassets\\img\\icon_next.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icon_star2.png",
+      "PackagePath": "staticwebassets\\img\\icon_star2.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\iconbuffet.png",
+      "PackagePath": "staticwebassets\\img\\iconbuffet.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icondouong.png",
+      "PackagePath": "staticwebassets\\img\\icondouong.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\iconkhaivi.png",
+      "PackagePath": "staticwebassets\\img\\iconkhaivi.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\iconmonchinh.png",
+      "PackagePath": "staticwebassets\\img\\iconmonchinh.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\iconmonnoibat.png",
+      "PackagePath": "staticwebassets\\img\\iconmonnoibat.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\icontrangmieng.png",
+      "PackagePath": "staticwebassets\\img\\icontrangmieng.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\logoBurning.png",
+      "PackagePath": "staticwebassets\\img\\logoBurning.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\291335805_5324132277632289_7334184981067450616_n.jpg",
+      "PackagePath": "staticwebassets\\img\\more_pic\\291335805_5324132277632289_7334184981067450616_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\316443926_5950300661670031_6251365877922384054_n.png",
+      "PackagePath": "staticwebassets\\img\\more_pic\\316443926_5950300661670031_6251365877922384054_n.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\Screenshot 2023-04-21 224158.png",
+      "PackagePath": "staticwebassets\\img\\more_pic\\Screenshot 2023-04-21 224158.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\user (2).png",
+      "PackagePath": "staticwebassets\\img\\more_pic\\user (2).png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\z4311895942606_7ed79c82f6d8a882f32d1f932d283e18.jpg",
+      "PackagePath": "staticwebassets\\img\\more_pic\\z4311895942606_7ed79c82f6d8a882f32d1f932d283e18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\more_pic\\z4339995756534_fb440fe9252c455eafb391530ea06141.jpg",
+      "PackagePath": "staticwebassets\\img\\more_pic\\z4339995756534_fb440fe9252c455eafb391530ea06141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\291335805_5324132277632289_7334184981067450616_n.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\291335805_5324132277632289_7334184981067450616_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\316443926_5950300661670031_6251365877922384054_n.png",
+      "PackagePath": "staticwebassets\\img\\new_pic\\316443926_5950300661670031_6251365877922384054_n.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\340559576_192403320252718_8600679917883987040_n.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\340559576_192403320252718_8600679917883987040_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\Screenshot 2023-06-03 011324.png",
+      "PackagePath": "staticwebassets\\img\\new_pic\\Screenshot 2023-06-03 011324.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\pexels-brakou-abdelghani-1723637.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\pexels-brakou-abdelghani-1723637.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\pexels-sam-willis-3934512.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\pexels-sam-willis-3934512.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\pexels-stephan-seeber-1261728.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\pexels-stephan-seeber-1261728.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\new_pic\\z4339995756534_fb440fe9252c455eafb391530ea06141.jpg",
+      "PackagePath": "staticwebassets\\img\\new_pic\\z4339995756534_fb440fe9252c455eafb391530ea06141.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_1.jpg",
+      "PackagePath": "staticwebassets\\img\\page\\page_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_2.jpg",
+      "PackagePath": "staticwebassets\\img\\page\\page_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_3.png",
+      "PackagePath": "staticwebassets\\img\\page\\page_3.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_4.jpg",
+      "PackagePath": "staticwebassets\\img\\page\\page_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_5.jpg",
+      "PackagePath": "staticwebassets\\img\\page\\page_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\page\\page_6.jpg",
+      "PackagePath": "staticwebassets\\img\\page\\page_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\pay\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\bidv.jpg",
+      "PackagePath": "staticwebassets\\img\\pay\\bidv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\drive-download-20221110T122618Z-001.zip",
+      "PackagePath": "staticwebassets\\img\\pay\\drive-download-20221110T122618Z-001.zip"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\roomstyle_deluxe1.png",
+      "PackagePath": "staticwebassets\\img\\pay\\roomstyle_deluxe1.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\techcombank.jpg",
+      "PackagePath": "staticwebassets\\img\\pay\\techcombank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\vietcombank.jpg",
+      "PackagePath": "staticwebassets\\img\\pay\\vietcombank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\pay\\vietinbank.jpg",
+      "PackagePath": "staticwebassets\\img\\pay\\vietinbank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\deluxe\\roomstyle_deluxe1.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\deluxe\\roomstyle_deluxe1.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\deluxe\\roomstyle_deluxe2.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\deluxe\\roomstyle_deluxe2.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\executive\\roomstyle_executive1.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\executive\\roomstyle_executive1.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\executive\\roomstyle_executive2.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\executive\\roomstyle_executive2.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\executive\\roomstyle_executive3.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\executive\\roomstyle_executive3.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\executive\\roomstyle_executive4.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\executive\\roomstyle_executive4.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\suite\\roomstyle_suite1.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\suite\\roomstyle_suite1.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\suite\\roomstyle_suite2.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\suite\\roomstyle_suite2.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\suite\\roomstyle_suite3.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\suite\\roomstyle_suite3.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomdetail\\suite\\roomstyle_suite4.png",
+      "PackagePath": "staticwebassets\\img\\roomdetail\\suite\\roomstyle_suite4.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomstyle\\Deluxe_normal.jpg",
+      "PackagePath": "staticwebassets\\img\\roomstyle\\Deluxe_normal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomstyle\\Luxury_room.jpg",
+      "PackagePath": "staticwebassets\\img\\roomstyle\\Luxury_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomstyle\\double_room.jpg",
+      "PackagePath": "staticwebassets\\img\\roomstyle\\double_room.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomstyle\\junior_suite.jpg",
+      "PackagePath": "staticwebassets\\img\\roomstyle\\junior_suite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\roomstyle\\small_suite.jpg",
+      "PackagePath": "staticwebassets\\img\\roomstyle\\small_suite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\banner_service_1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\banner_service_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\bar_1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\bar_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\bar_2.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\bar_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\fitness_1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\fitness_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\fitness_2.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\fitness_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\washingcloses_1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\washingcloses_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\service\\washingcloses_2.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\washingcloses_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\accommodations_1.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\accommodations_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\accommodations_2.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\accommodations_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\banner_1.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\banner_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\deals.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\deals.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon-location.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon-location.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon-mail.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon-phone.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon-send.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon-send.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon_Cleaning.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon_Cleaning.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon_Map.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon_Map.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon_Wifi.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon_Wifi.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\icon_muiten.png",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\icon_muiten.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\room_2.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\room_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\room_3.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\room_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\service_1.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\service_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\service_2.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\service_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\service_3.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\service_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\trangchu1\\service_4.jpg",
+      "PackagePath": "staticwebassets\\img\\trangchu1\\service_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\js\\scrip.js",
+      "PackagePath": "staticwebassets\\js\\scrip.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84336\\source\\repos\\QuanLyKhachSanAPI\\QuanLyKhachSanAPI\\QuanLyKhachSanClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QuanLyKhachSanClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QuanLyKhachSanClient.props",
+      "PackagePath": "build\\QuanLyKhachSanClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLyKhachSanClient.props",
+      "PackagePath": "buildMultiTargeting\\QuanLyKhachSanClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QuanLyKhachSanClient.props",
+      "PackagePath": "buildTransitive\\QuanLyKhachSanClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

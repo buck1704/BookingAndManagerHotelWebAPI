@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "Restaurant_MonKhaiVi_Create";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thêm Mới Món Khai Vị</title>
+    <style>
+        *{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <form asp-controller="admin" asp-action="Restaurant_MonKhaiVi_Add" enctype="multipart/form-data" method="POST">
+    <table>
+        <tr>
+            <td colspan="2"><h1>Thêm mới Món khai vị</h1></td>
+        </tr>
+            <td>Tên Món</td>
+            <td>
+                <input type="text" name="TenMon" id="TenMon">
+            </td>
+        </tr>
+        <tr>
+            <td>Giá</td>
+            <td>
+            <input type="text" name="Gia" id="Gia">
+            </td>
+        </tr>
+        <tr>
+            <td>Ảnh</td>
+            <td>
+                    <input type="file" name="imgFile" id="img">
+            </td>
+        </tr>
+        <tr>
+                <td><input type="Submit" name="Submit" id="Submit" value="Đồng ý"></td>
+                <td><button><a href="@Url.Action("Restaurant_MonKhaiVi_Index", "admin")">Quay lại</a></button></td>
+        </tr>
+    </table>
+    </form>
+
+</body>
+</html>

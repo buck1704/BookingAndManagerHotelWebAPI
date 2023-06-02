@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewData["Title"] = "infor";
+}
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <script>
+        alert('@Html.Raw(ViewBag.ErrorMessage)');
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.SuccessMessage))
+{
+    <script>
+        alert('@Html.Raw(ViewBag.SuccessMessage)');
+    </script>
+}
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewData["Title"] = "payddn";
+    var hoTen = HttpContextAccessor.HttpContext.Session.GetString("HoTen");
+    var Email = HttpContextAccessor.HttpContext.Session.GetString("Email");
+    var Sdt = HttpContextAccessor.HttpContext.Session.GetString("Sdt");
+    var Cmnd = HttpContextAccessor.HttpContext.Session.GetString("Cmnd");
+    var PassWord = HttpContextAccessor.HttpContext.Session.GetString("PassWord");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../common/bootstrap-5.2.2-dist/css/bootstrap.min.css?v=@DateTime.Now.Ticks">
+    <link rel="stylesheet" href="../css/infor.css?v=@DateTime.Now.Ticks">
+    <link rel="stylesheet" href="../css/style.css?v=@DateTime.Now.Ticks">
+    <title>Document</title>
+</head>
+<body>
+
+    @Html.Partial("header.cshtml")
+
+
+    <section id="infor">
+        <div class="container">
+            <h1 class="text-center">Thông Tin Cá Nhân</h1>
+            <p class="text-center">Thông tin được cung cấp bên dưới sẽ được sử dụng để đăng nhập vào tài khoản của khách sạn cho nhu cầu đặt phòng của bạn.</p>
+            <form action="Suathongtincanhan" method="POST" >
+                <div class="row">
+                    <div class="col-5">
+                        <label for="">Họ và tên: </label>
+                    </div>
+                    <div class="col-7">
+                        <input type="text" name="ten" id="ten" value="@hoTen" readonly>
+                        <button type="submit" onclick="editInfo(event)"><i class="fa fa-wrench" style="color: #EBB853; font-size: 25px"></i></button>
+                    </div>
+                    <div class="col-5">
+                        <label for="">Số Điện Thoại: </label>
+                    </div>
+                    <div class="col-7">
+                        <input type="text" name="sdt" id="sdt" value="@Sdt" readonly>
+                        <button type="submit" onclick="editInfo1(event)"><i class="fa fa-wrench" style="color: #EBB853; font-size: 25px"></i></button>
+                    </div>
+                    <div class="col-5">
+                        <label for="">Email: </label>
+                    </div>
+                    <div class="col-7">
+                        <input type="text" name="email" id="email" value="@Email" readonly>
+                        <button type="submit"  onclick="editInfo2(event)"><i class="fa fa-wrench" style="color: #EBB853; font-size: 25px"></i></button>
+                    </div>
+                    <div class="col-5">
+                        <label for="">Số CMND: </label>
+                    </div>
+                    <div class="col-7">
+                        <input type="text" name="cmnd" id="cmnd" value="@Cmnd" readonly >
+                        <button type="submit"  onclick="editInfo3(event)"<i class="fa fa-wrench" style="color: #EBB853; font-size: 25px"></i></button>
+                    </div>
+                    <div class="col-5">
+                        <label for="">Mật Khẩu: </label>
+                    </div>
+                    <div class="col-7">
+                        <input type="text" name="pass" id="pass" value="@PassWord" readonly>
+                        <button type="submit" onclick="editInfo4(event)"><i  class="fa fa-wrench" style="color: #EBB853; font-size: 25px"></i></button>
+                    </div>
+                </div>
+                <div class="confirm d-flex">
+                  
+                        <button type="submit" id ="btn" name="btn"> Sửa đổi thông tin  </button>
+                </div>
+                
+                <script>
+                    function editInfo1(event) {
+                        event.preventDefault();
+                        document.getElementById("sdt").removeAttribute("readonly");
+                        }
+                    function editInfo(event) {
+                        event.preventDefault();
+                        document.getElementById("ten").removeAttribute("readonly");
+                    }
+                    function editInfo2(event) {
+                        event.preventDefault();
+                        document.getElementById("email").removeAttribute("readonly");
+                    }
+                     function editInfo3(event) {
+                        event.preventDefault();
+                        document.getElementById("cmnd").removeAttribute("readonly");
+                        }
+                    function editInfo4(event) {
+                        event.preventDefault();
+                        document.getElementById("pass").removeAttribute("readonly");
+                    }
+                </script>
+            </form>
+
+        </div>
+    </section>
+   
+    @Html.Partial("footer.cshtml")
+
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <!-- bootstrap -->
+    <script src="../common/bootstrap-5.2.2-dist/js/popper.min.js"></script>
+    <script src="../common/bootstrap-5.2.2-dist/js/bootstrap.min.js"></script>
+    <!-- slick -->
+    <script src="../common/slick/slick.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../js/scrip.js"></script>
+</body>
+</html>

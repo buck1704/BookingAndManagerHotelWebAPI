@@ -1,0 +1,112 @@
+
+
+#banner{
+    
+    color: white;
+}
+#banner .img{
+    position: relative;
+}
+#banner .img img{
+    filter: brightness(30%);
+}
+#banner .box {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#banner .box .trangtri{
+    border: 2px solid white;
+    background-color: white;
+    height: 60px;
+    width: 2px;
+    margin: 0 auto;
+}
+#step .a{
+    width: 20%;
+    margin: -95px auto 0px;
+}
+#step .a li a{
+    background-color: transparent;
+    color: white;
+}
+#step .a li span{
+    background-color: #937438;
+    border-color: #937438;
+    color: #fff;
+}
+#step .b{
+    width: 26%;
+    margin: 0 auto;
+}
+#step .b li a{
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+}
+#step .b li span{
+    background-color: transparent;
+    color: white;
+    font-size: 12px;
+}
+#step .b li{
+    width: 120px;
+    border: none;
+    text-align: center;    
+}
+
+#Time .container{
+    margin-left: 570px;
+}
+
+
+#center {
+    padding-left: 150px;
+}
+
+#center .container img{
+    height: 500px;
+    width: 1140px;
+}
+#center .container .img img{
+    height: 25px;
+    width: 35px;
+}
+#loaiphong{
+    padding-left: 150px;
+}
+
+#pttt{
+    padding-left: 150px;
+}
+
+#pttt .nganhang img{
+    width: 200px;
+    height: 45px;
+    margin-left: 50px;
+}
+
+#chon{
+    padding-left: 150px;
+}
+
+#chon label{
+    padding-left: 50px;
+}
+
+#chon input{
+    margin-left: 300px;
+}
+
+#button{
+    background-color: #181A1B;
+    padding-left: 900px;
+}
+
+#button button{
+   height: 40px;
+    width: 300px;
+    background-color: #937438;
+    color: white;
+}

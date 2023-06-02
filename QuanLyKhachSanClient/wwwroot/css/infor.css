@@ -1,0 +1,35 @@
+#infor{
+    background-color: #181A1B;
+    color: white;
+    font-family: Montserrat-SemiBold;
+    margin-top: 30px;
+}
+#infor label{
+    padding-left: 340px;
+    margin-top: 20px;
+
+}
+#infor input{
+    border: 1px solid #EBB853;
+    background-color: transparent;
+    width: 400px;
+    height: 35px;
+    margin-top: 20px;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+#btn{
+    background-color: #937438;
+    border: none;
+    width: 450px;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+    margin: 50px auto;
+}
+.row button {
+    width: 25px;
+    height: 25px;
+    background-color: black;
+}

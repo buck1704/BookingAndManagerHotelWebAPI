@@ -1,0 +1,111 @@
+
+/* banner */
+#banner{
+   
+    color: white;
+}
+#banner .img{
+    position: relative;
+    height: 450px;
+}
+#banner .img img{
+    filter: brightness(70%);
+    height: 305px;
+}
+#banner .box {
+    position: absolute;
+    left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+#banner .box .trangtri{
+    border: 2px solid white;
+    background-color: white;
+    height: 60px;
+    width: 2px;
+    margin: 0 auto;
+}
+
+/* end banner */
+
+/* content */
+#content{
+    background-color: #181A1B;
+    color: white;
+}
+#content .container{
+    width: 1110px;
+}
+#content img{
+    height: 450px;
+}
+#content p{
+    font-family:Montserrat-Regular;
+    margin-top: 16px;
+}
+/* end content */
+
+/* service */
+#service {
+    background-color: #181A1B;
+    color: white;
+    padding-top: 100px;
+}
+#service .container{
+    width: 1110px;
+}
+#service .img{
+    align-items: center;
+}
+#service .img1{
+    height: 300px;
+}
+#service h5{
+    font-family: Montserrat-SemiBold;
+}
+#service p{
+    font-size: 14px;
+    font-family: Montserrat-Regular;
+    color: #717272;
+}
+#service h3{
+    font-family: Montserrat-SemiBold;
+}
+/* #service .bg-right{
+    position: relative;
+    z-index: 1;
+}
+#service .bg-right::before{
+    position: absolute;
+    content: '';
+    right: 330px;
+    top: -10%;
+    width: 70%;
+    height: 120%;
+    background: #1C1F20;
+    z-index: -1;
+}
+#service .bg-left{
+    position: relative;
+    z-index: 1;
+}
+#service .bg-left::before{
+    position: absolute;
+    content: '';
+    left: 330px;
+    top: -10%;
+    width: 70%;
+    height: 120%;
+    background: #1C1F20;
+    z-index: -1;
+} */
+#service .mb-100{
+    margin-bottom: 100px;
+}
+#service button{
+    border: 2px solid #937438;
+    background-color: #1C1F20;
+    color: #937438;
+    font-family: Montserrat-SemiBold;
+}
+/* end service */

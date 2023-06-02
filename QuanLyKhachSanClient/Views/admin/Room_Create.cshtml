@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewData["Title"] = "ChiTietPhong_Create";
+}
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <script>
+        alert(decodeURIComponent("@ViewBag.Message"));
+    </script>
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thêm Mới</title>
+    <style>
+        *{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <form asp-controller="admin" asp-action="Room_Add" enctype="multipart/form-data" method="POST">
+    <table>
+        <tr>
+            <td colspan="2"><h1>Thêm mới Phòng</h1></td>
+        </tr>
+        <tr>
+            <td>ID Phòng</td>
+            <td>
+                <input type="text" name="IdPhong" id="IdPhong">
+            </td>
+        </tr>
+        <tr>
+            <td>Tên Phòng</td>
+            <td>
+                <input type="text" name="TenPhong" id="TenPhong">
+            </td>
+        </tr>
+        <tr>
+            <td>Số Lượng Người Tối Đa</td>
+            <td>
+                <input type="number" name="NguoiMax" id="NguoiMax">
+            </td>
+        </tr>
+        <tr>
+            <td>Loại Giường</td>
+            <td><input type="text" name="LoaiGiuong" id="LoaiGiuong"></td>
+        </tr>
+        <tr>
+            <td>Giá Phòng </td>
+            <td>
+            <input type="text" name="GiaPhong" id="GiaPhong">
+            </td>
+        </tr>
+        <tr>
+            <td>Số Lượng Phòng </td>
+            <td>
+            <input type="text" name="SoLuongPhong" id="SoLuongPhong">
+            </td>
+        </tr>
+        <tr>
+            <td>Điện tích </td>
+            <td>
+            <input type="text" name="DienTich" id="DienTich">
+            </td>
+        </tr>
+        <tr>
+            <td>Tầm Nhìn </td>
+            <td>
+            <input type="text" name="TamNhin" id="TamNhin">
+            </td>
+        </tr>
+        <tr>
+            <td>Mô tả </td>
+            <td>
+            <input type="text" name="Mota" id="Mota">
+            </td>
+        </tr>
+        <tr>
+            <td>Ảnh</td>
+            <td>
+            <input type="file" name="imgFile" id="Img">
+            </td>
+        </tr>
+        <tr>
+            <td><input type="Submit" name="Submit" id="Submit" value="Gửi"></td>
+            <td><button><a href="@Url.Action("Room_Index", "admin")">Quay lại</a></button></td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>
+

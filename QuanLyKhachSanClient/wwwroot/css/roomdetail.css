@@ -1,0 +1,225 @@
+.container {
+    width: 1110px;
+}
+
+hr {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* banner */
+#banner {
+    margin-top: 30px;
+    color: white;
+}
+
+    #banner .img {
+        position: relative;
+    }
+
+        #banner .img img {
+            width: 100%;
+            height: 300px;
+            filter: brightness(30%);
+        }
+
+    #banner .box {
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+
+        #banner .box .trangtri {
+            border: 2px solid white;
+            background-color: white;
+            height: 60px;
+            width: 2px;
+            margin: 0 auto;
+        }
+/* end banner */
+
+/* information */
+#information {
+    background-color: #181A1B;
+    color: #fff;
+}
+/* end information */
+
+/* overview */
+#overview {
+    background-color: #181A1B;
+    color: #fff;
+    padding-top: 20px;
+}
+
+    #overview h3 {
+        color: #B8B1A8;
+        font-family: Montserrat-SemiBold;
+    }
+
+    #overview p {
+        font-family: Montserrat-SemiBold;
+    }
+
+    #overview span {
+        font-family: Montserrat-Regular;
+    }
+/* end overview */
+
+/* special-features */
+#special-features {
+    background-color: #181A1B;
+    color: #fff;
+    padding-top: 20px;
+}
+
+    #special-features h3 {
+        color: #B8B1A8;
+        font-family: Montserrat-SemiBold;
+    }
+
+    #special-features span {
+        font-family: Montserrat-Regular;
+    }
+/* end special-features */
+
+/* common */
+#common {
+    background-color: #181A1B;
+    color: #fff;
+    padding-top: 20px;
+}
+
+    #common h3 {
+        color: #B8B1A8;
+        font-family: Montserrat-SemiBold;
+    }
+
+    #common p {
+        font-family: Montserrat-SemiBold;
+    }
+
+    #common span {
+        font-family: Montserrat-Regular;
+        text-align: justify;
+    }
+/* end common */
+
+/* detail */
+#detail {
+    background-color: #181A1B;
+    color: #fff;
+    padding-top: 20px;
+}
+
+    #detail h3 {
+        color: #B8B1A8;
+        font-family: Montserrat-SemiBold;
+    }
+
+    #detail span {
+        font-family: Montserrat-Regular;
+        text-align: justify;
+    }
+
+    #detail button {
+        border: none;
+        color: white;
+        background-color: #937438;
+        height: 48px;
+        width: 200px;
+        margin-top: 10px;
+        font-family: Montserrat-Medium;
+    }
+/* end detail */
+
+/* checknow */
+#checknow .container {
+    position: relative;
+    width: 1100px;
+    margin-top: -97px;
+}
+
+#checknow .check {
+    background-color: black;
+}
+
+#checknow input {
+    border: none;
+    color: #937438;
+    background-color: black;
+    font-family: Montserrat-Medium;
+}
+
+#checknow select {
+    border: none;
+    color: #937438;
+    background-color: black;
+    font-family: Montserrat-Medium;
+}
+
+#checknow .check button {
+    border: none;
+    color: white;
+    background-color: #937438;
+    height: 48px;
+    width: 130px;
+    font-family: Montserrat-Medium;
+}
+/* end checknow */
+
+/* room */
+#room {
+    background-color: #181A1B;
+}
+
+    #room .container {
+        width: 1110px;
+        padding-top: 80px;
+    }
+
+    #room a {
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        width: 100px;
+        font-family: Montserrat-SemiBold;
+    }
+
+    #room h3 {
+        color: white;
+        font-family: Montserrat-Regular;
+        font-weight: bold;
+    }
+
+    #room .img {
+        position: relative;
+    }
+
+        #room .img img {
+            filter: brightness(70%);
+        }
+
+    #room .content {
+        position: absolute;
+        top: 70%;
+        left: 10%;
+        color: white;
+        font-family: Montserrat-SemiBold;
+    }
+
+        #room .content .trangtri {
+            width: 160%;
+            text-align: center;
+            border: 1px solid #937438;
+            background-color: #937438;
+        }
+
+        #room .content .trangtri1 {
+            width: 310%;
+            text-align: center;
+            border: 1px solid #937438;
+            background-color: #937438;
+        }
+/* end room */

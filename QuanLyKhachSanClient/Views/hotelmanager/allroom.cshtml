@@ -1,0 +1,218 @@
+@{
+    ViewData["Title"] = "allroom";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <script>
+        alert('@Html.Raw( ViewBag.Message)');
+    </script>
+}
+
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css?v=@DateTime.Now.Ticks">
+    <link rel="stylesheet" href="../css/allroom.css?v=@DateTime.Now.Ticks" type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/a0ff9460a2.js" crossorigin="anonymous"></script>
+    <!-- CSS only -->
+    <link rel="stylesheet" href="../common/bootstrap-5.2.2-dist/css/bootstrap.min.css">
+    <!-- JavaScript Bundle with Popper -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- header -->
+    @Html.Partial("header.cshtml")
+
+    <!-- banner -->
+    <div class="header">
+            <img  src="../img/pay/banner.jpg" alt="">
+             <div class="header_mota">   
+                     <span class="mota1">Home</span>
+                     <span class="mota2">-Room</span>
+                     <p class="mota3">ALL ROOM</p>
+             </div>
+        </div>
+
+
+    <!-- end banner -->
+
+    <div class="main">
+        <div class="main_menu">
+            <p>Booking now</p>
+            <div class="form">
+                <form asp-action ="GetRoomar" method="POST">
+                    
+                        <div class="form_item"><input type="datetime-local" name="ngaydenar" id="ngaydenar" placeholder="Check In" value="@ViewBag.NgayDenar"></div>
+                        <div class="form_item"><input type="datetime-local" name="ngaydiar" id="ngaydiar" placeholder="Check Out" value="@ViewBag.NgayDiar"></div>
+                   
+                    <div class="form_item">
+                        <select name="roomar" id="roomar">
+                           
+                                @if (@ViewBag.roomar == 1)
+                                {
+                                    <option value='1' selected>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                                else if (@ViewBag.roomar == 2)
+                                {
+                                    <option value='1'>1 người</option>
+                                    <option value='2' selected>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                                else if (@ViewBag.roomar == 3)
+                                {
+                                    <option value='1'>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3' selected>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                                else if (@ViewBag.roomar == 4)
+                                {
+                                    <option value='1'>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4' selected>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                                else if (@ViewBag.roomar == 5)
+                                {
+                                    <option value='1'>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5' selected>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                                else if (@ViewBag.roomar == 6)
+                                {
+                                    <option value='1'>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6' selected>6 người</option>
+                                }
+
+                                else
+                                {
+                                    <option value=''>Chọn số lượng người</option>
+                                    <option value='1'>1 người</option>
+                                    <option value='2'>2 người</option>
+                                    <option value='3'>3 người</option>
+                                    <option value='4'>4 người</option>
+                                    <option value='5'>5 người</option>
+                                    <option value='6'>6 người</option>
+                                }
+                            
+                        </select>
+                    </div>
+                    <div class="form_item">
+                        <select name="categoryar" id="categoryar">
+                            <option value="">Chọn phòng </option>
+                        </select>
+
+                        <script>
+                            fetch('https://localhost:7146/api/HotelManager/GetAllPhong')
+                                .then(response => response.json())
+                                .then(data => {
+                                    console.log(data)
+                                    data.forEach(item => {
+                                        const option = document.createElement('option');
+                                        option.value = item.id;
+                                        option.text = item.loaiPhong;
+                                        if (item.id == '@ViewBag.categoryar') {
+                                            option.selected = true;
+                                        }
+                                        document.getElementById('categoryar').appendChild(option);
+                                    });
+                                })
+                                .catch(error => console.error(error));
+                        </script>
+                    </div>
+                    <button  type="submit" name="submitar"><img src="~/img/trangchu1/icon_muiten.png">Check </button>
+            </form>
+            </div>
+        </div>
+       
+           <div class="main_room">
+           <div class="main_room1">
+                @if (@ViewBag.ButtonClicked != null)
+                {
+                    @foreach (var phongs in ViewBag.phong)
+                    {
+                        <div class="main_room1_1">
+                            <div class="main_anh"><img src="@phongs.Img" alt=""></div>
+                            <div class="main_nd">
+                                <p>@phongs.GiaPhong/Night</p>
+                                <p>@phongs.TenPhong</p>
+                                <p>facilisis tempor erat facilisis. Proin<br>imperdiet rutrum cursus</p>
+                                <div class="icon">
+                                    <span class="icon_giuong"><img src="../img/icon_Room.png" width="30px" height="20px">(2)bed's </span>
+                                    <span class="icon_nguoi"><img src="../img/icon_3p.png" alt="" width="30px" height="20px">(@phongs.NguoiMax)Guest's</span>
+                                </div>
+                            </div>
+                            <div class=chitiet>  <a href="@Url.Action("GetChiTietPhong", "hotelmanager", new { Id =phongs.Id})">Chi Tiết</a></div>
+
+                        </div>
+                    }
+                  
+                }
+                else
+                {
+                    @foreach (var phongar in ViewBag.Phongar)
+                    {
+                        <div class="main_room1_1">
+                        <div class="main_anh"><img src="@phongar.Img" alt=""></div>
+                        <div class="main_nd">
+                            <p>@phongar.GiaPhong/Night</p>
+                            <p>@phongar.TenPhong</p>
+                            <p>facilisis tempor erat facilisis. Proin<br>imperdiet rutrum cursus</p>
+                            <div class="icon">
+                                <span class="icon_giuong"><img  src="../img/icon_Room.png" width="30px" height="20px" >(2)bed's </span>
+                                <span class="icon_nguoi"><img src="../img/icon_3p.png" alt="" width="30px" height="20px">(@phongar.NguoiMax)Guest's</span>
+                            </div>
+                        </div>
+                            <div class=chitiet>  <a href="@Url.Action("GetChiTietPhong", "hotelmanager", new { Id =phongar.Id}) ">Chi Tiết</a></div>
+                      
+                    </div>
+                    }
+                }
+            </div>
+          </div>
+        </div>
+ 
+                     
+
+           
+
+
+    <!-- footer -->
+
+    @Html.Partial("footer.cshtml")
+
+    <script src="../common/bootstrap-5.2.2-dist/js/popper.min.js"></script>
+    <script src="../common/bootstrap-5.2.2-dist/js/bootstrap.min.js"></script>
+    
+   
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 ﻿# BookingAndManagerHotelWebAPI
- Bài demo cho môn kiến trúc và thiết kế phần mềm, đề tài quản lý khách sạn.
+ Chương trình quản lý và đặt phòng khách sạn
  # Bài báo cáo gồm:
  - web api + client
  - báo cáo bản mềm: https://docs.google.com/document/d/1sdVz0N3oU6t2AWFgL1TDJhTqsnuuOe0G/edit?usp=sharing&ouid=105238185890006122819&rtpof=true&sd=true

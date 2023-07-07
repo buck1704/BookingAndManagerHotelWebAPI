@@ -14,3 +14,6 @@
 - Mở sql server lấy tên máy chủ, sau đó chọn model ở api, chọn file context để thay đổi servername ở dòng 38
 # Tác Giả: Trường Đại học Công Nghệ Giao Thông Vận Tải, lớp 71DCTT21, nhóm 7
 # Email: 7STeam.work@gmail.com
+# Hình ảnh chương trình:
+![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/eb4252f7-07d6-4963-9266-0c2a51171c73)
+

@@ -13,12 +13,20 @@
 - Mở sql server lấy tên máy chủ, sau đó chọn `model` ở api, chọn file `context` để thay đổi `servername` ở dòng 38
 ## 3. Hình ảnh chương trình:
 ![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/eb4252f7-07d6-4963-9266-0c2a51171c73)
-<div align="center">Giao Diện Đăng Nhập</div>
+<p align="center">Giao Diện Đăng Nhập</p>
+<br>
+
 ![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/d33fd20c-898f-48c6-b839-f740d4bea3a7)
-<div align="center">Giao Diện Trang Chủ</div>
+<p align="center">Giao Diện Trang Chủ</p>
+<br>
+
 ![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/03a1b48e-87ea-4372-bb7d-5947b45d5625)
-<div align="center">Giao Diện CheckIn</div>
+<p align="center">Giao Diện CheckIn</p>
+<br>
+
 ![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/832c4004-3868-4744-9fa5-ddbc4aa971c6)
-<div align="center">Giao Diện Kiểm Tra Phòng</div>
+<p align="center">Giao Diện Kiểm Tra Phòng</p>
+<br>
+
 ![image](https://github.com/buck1704/BookingAndManagerHotelWebAPI/assets/132087690/533ebff1-4a61-4bb2-b01f-5a55b8d6c7dd)
-<div align="center">Giao Diện Quản Lý</div>
+<p align="center">Giao Diện Quản Lý</p>
